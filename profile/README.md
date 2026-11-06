@@ -17,8 +17,8 @@ We turn ideas into practical tools for everyday use: apps, web apps and scripts 
 | Project | What it is | Status |
 | --- | --- | --- |
 | [Bugiardino](https://bugiardino.buildbandits.com) | Keep an eye on the expiry dates of the medicines you have at home and read the patient leaflet in plain Italian. | Live, Italian only |
-| Chiaro | Upload your policies and ask about cover, exclusions and deductibles: Chiaro answers in plain words, using only your documents. | Coming soon |
-| Sei Gradi | Two Wikipedia articles, six jumps to connect them. Every solved case becomes a challenge with a record to beat. | Coming soon |
+| [Sei Gradi](https://seigradi.buildbandits.com) | Two Wikipedia articles, six jumps to connect them. Every solved case becomes a challenge with a record to beat. | Coming soon, Italian only |
+| [Chiaro](https://chiaro.buildbandits.com) | Upload your policies and ask about cover, exclusions and deductibles: Chiaro answers in plain words, using only your documents. | Coming soon, Italian only |
 
 ## How we work
 
