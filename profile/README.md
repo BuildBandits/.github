@@ -11,6 +11,7 @@ We turn ideas into practical tools for everyday use: apps, web apps and scripts 
 | Project | What it is |
 | --- | --- |
 | [**Frontdoor**](https://github.com/BuildBandits/frontdoor-oss) | One door. Every tool. A self-hosted launchpad for internal apps: sign-in with Microsoft Entra ID and a searchable catalogue tailored to each role and team. MIT licensed, Docker images on GitHub Container Registry. [Website and docs](https://frontdoor.buildbandits.com) |
+| [**Tools Collection**](https://github.com/BuildBandits/tools-collection) | 50+ developer tools that run entirely in your browser: generators, converters, formatters, security helpers and more. No data ever leaves your machine. Five languages, command palette, printable manual. MIT licensed. [Try it](https://tools.buildbandits.com) |
 
 ## Also from the workshop
 
